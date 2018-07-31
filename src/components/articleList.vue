@@ -21,8 +21,20 @@ export default {
   data () {
     return {
       articles: [
-        ['vue安装', '实例', '指令', '方法', '计算属性', '怎天气', '爱迪生', '奥德赛', '规范', '电风扇', '更好'],
-        ['']
+        [
+          'vue2环境搭建',
+          'vue2-实例',
+          'vue2-模板语法',
+          'vue2-计算属性computed',
+          'vue2-样式Class 与 Style 绑定',
+          'vue2-条件渲染v-if和列表循环v-for',
+          'vue2-事件绑定v-on/@',
+          'vue2-组件component',
+          'vue2-组件注册，prop，插槽',
+          'vue2-动态组件和异步组件',
+          'vue2-过渡和动画'
+        ],
+
       ]
     }
   }

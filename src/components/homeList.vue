@@ -24,10 +24,8 @@ export default {
       lists: [
         { id: 1,
           src: require('../../static/img/1.jpg'),
-          title: 'vue2.0基础知识',
-          content: 'vue安装，实例，指令，实例的属性：data,methods,computed,mounted等等，绑定class，style，组件。组件间数据传递，过渡用户字体大小设置。以“我-设置-通用-字体大小”中的设置为准，单位：px\t1.5.0\n' +
-          'SDKVersion\t客户端基础库版本用户字体大小设置。以“我-设置-通用-字体大小”中的设置为准，单位：px\t1.5.0\n' +
-          'SDKVersion\t客户端基础库版本'
+          title: 'vue2环境搭建',
+          content: 'vue的3种搭建方式'
         }, {
           id: 2,
           src: require('../../static/img/2.jpg'),
