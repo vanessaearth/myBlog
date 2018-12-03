@@ -33,7 +33,7 @@ export default {
           'vue2-组件注册，prop，插槽',
           'vue2-动态组件和异步组件',
           'vue2-过渡和动画'
-        ],
+        ]
 
       ]
     }
